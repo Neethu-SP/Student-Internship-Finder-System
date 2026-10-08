@@ -1,0 +1,9 @@
+1001|Northstar Analytics|Data Analyst Intern|Data Science|SQL, Excel, Python|3|12000|7.0|2026-11-15
+1002|Bluejay Robotics|Computer Vision Intern|AI and Robotics|C, OpenCV, Linear Algebra|4|18000|7.5|2026-11-22
+1003|Maple Metrics|Business Intelligence Intern|Analytics|SQL, Power BI, Excel|3|10000|6.5|2026-12-01
+1004|Copper Cloud Labs|Cloud Systems Intern|Cloud Computing|C, Linux, Networking|6|22000|7.0|2026-12-10
+1005|Orbit Data Works|Machine Learning Intern|Machine Learning|Python, Statistics, SQL|4|20000|8.0|2026-11-30
+1006|Pixel Harbor|Frontend Design Intern|Web Technology|HTML, CSS, JavaScript|3|9000|6.0|2026-12-05
+1007|Cedar Cyber Labs|Security Research Intern|Cybersecurity|C, Linux, Networking|5|16000|7.2|2026-12-14
+1008|Silverline Mobility|Data Engineering Intern|Data Engineering|C, SQL, Linux|4|15000|6.8|2026-11-28
+1009|Amber BioCompute|AI Research Intern|AI and Healthcare|Python, Statistics, Linear Algebra|6|25000|8.2|2026-12-18
